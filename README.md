@@ -1,7 +1,10 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-LEE98)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98)](https://github.com/anuraghazra/github-readme-stats)
