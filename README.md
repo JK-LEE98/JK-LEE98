@@ -1,7 +1,5 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-LEE98&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-LEE98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
